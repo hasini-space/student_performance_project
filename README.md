@@ -1,6 +1,10 @@
 # 🎓 Student Performance Predictive Analytics
 
-A machine learning system that helps educators identify at-risk students early in the academic term using predictive analytics. This project combines data preprocessing, model training, and an interactive web dashboard for real-time predictions.
+A machine learning system that helps educators identify at-risk students early in the academic term using predictive analytics. This project combines data preprocessing, model training, and an interactive web dashboard to support student success initiatives.
+
+## 🚀 Live Demo
+
+**Try it now:** [https://hxvahgvoydyxgbf9sndkeg.streamlit.app/](https://hxvahgvoydyxgbf9sndkeg.streamlit.app/)
 
 ---
 
@@ -21,7 +25,7 @@ A machine learning system that helps educators identify at-risk students early i
 
 ## 🎯 Overview
 
-This project leverages machine learning to predict student performance outcomes (pass/fail) based on academic and institutional factors. The system is designed to support early intervention strategies by identifying students at risk of failing before it's too late.
+This project leverages machine learning to predict student performance outcomes (pass/fail) based on academic and institutional factors. The system is designed to support early intervention strategies and improve student success rates.
 
 **Key Benefits:**
 - 🚀 **Early Identification**: Catch at-risk students before they fail
@@ -343,4 +347,3 @@ For questions, issues, or suggestions:
 **Last Updated**: June 2026  
 **Python Version**: 3.8+  
 **Status**: Active Development
-
